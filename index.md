@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Manoa Rainbow Cards
 ---
-# Manoa Rainbow Cards
 
 ## Table of Contents
 * [Overview](#overview)
