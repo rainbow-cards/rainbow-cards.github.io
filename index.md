@@ -113,9 +113,13 @@ $ meteor npm run start
 - Experienced a team presentation (4/4)
   - [Rainbow Cards' Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
 - Final Project Milestone #1 (4/11)
+  - TBD
 - Deploy the final project to Digital Ocean (4/11)
+  - TBD
 - Final Project Milestone #2 (4/23)
+  - TBD
 - Final Project Milestone #3 (5/1)
+  - TBD
 
 ## The Rainbow Cards Team
 * Elijah Saloma	      esaloma@hawaii.edu
