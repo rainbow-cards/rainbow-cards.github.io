@@ -107,7 +107,7 @@ $ meteor npm run start
   - [Rainbow Cards Team Contract Google Doc](https://docs.google.com/document/d/1mPT3OwNUSHKBWtyxrerqiRkuc8SAxzc78EGnRSRvwDk/edit?usp=sharing)
 - Created a GitHub organization and home page (4/3-4/4)
   - [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
-- Began Issue Driven Project Management (4/4)
+- Began Issue Driven Project Management (4/3)
   - [M1 Project Page](https://github.com/orgs/rainbow-cards/projects/1/views/1) (admin/collaborator-only access)
 - Experienced a team presentation (4/4)
   - [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
