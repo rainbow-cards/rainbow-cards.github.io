@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# Manoa Rainbow Cards
+
 ## Table of Contents
 * [Overview](#overview)
 * [Project Features](#project-features)
