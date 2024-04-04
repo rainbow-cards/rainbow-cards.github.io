@@ -35,8 +35,8 @@ Beyond basic site functionality as explored in prior software development stack 
 * [COMMUNITY] <b>Profile suggestion feature</b> to enhance user interaction and card hunting
 * [USABILITY] Catalog of all professor cards to see all cards that a user owns and doesn't own
 * [USABILITY] Ability for professors to register on the app and edit their own cards
-* [INCENTIVE] Cards with secret information that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
-* [INCENTIVE] Ability for users to earn cards by engaging with the app, such as daily tasks that accrue points toward earning a card or opening semester-based card packs
+* [INCENTIVE] Cards with secret information that is <b>only revealed once the card is obtained</b> (what is that professor's super cool hobby, anyway?)
+* [INCENTIVE] Ability for users to <b>earn cards by engaging with the app</b>, such as daily tasks that accrue points toward earning a card or opening semester-based card packs
 
   <i>*Features are subject to change or removal and not indicative of the final product.</i>
 
