@@ -56,7 +56,7 @@ If the user does not have an account or wishes to create one, they will be able 
 
 ### User Profile Page
 Upon signing in with an account, the user can click their account name button to reach their profile page:
-<img src="site-mockup/profile-page.png" alt="User profile page mockup">
+<img src="site-mockup/profile-page-custom.png" alt="User profile page mockup">
 
  This page will display all of the user's Rainbow Cards, which can be rearranged according to the user's preferences. If a user has more than one of a Rainbow Card, it will be displayed. The profile may also include features like displaying which cards the user wants to trade away or collect, as well as displaying user's interests.
  
