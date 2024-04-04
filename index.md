@@ -122,11 +122,11 @@ $ meteor npm run start
   - TBD
 
 ## The Rainbow Cards Team
-* Elijah Saloma	      esaloma@hawaii.edu
-* Daevin Bagcal	      daevinb@hawaii.edu
-* Benjamin Bercasio	  bbercasi@hawaii.edu
-* John Serraon		    jserraon@hawaii.edu
-* Yuzuki Fujimoto	    yuzukif@hawaii.edu
+* Elijah Saloma	      (esaloma@hawaii.edu)
+* Daevin Bagcal	      (daevinb@hawaii.edu)
+* Benjamin Bercasio	  (bbercasi@hawaii.edu)
+* John Serraon		    (jserraon@hawaii.edu)
+* Yuzuki Fujimoto	    (yuzukif@hawaii.edu)
 
 ## Links
 * [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
