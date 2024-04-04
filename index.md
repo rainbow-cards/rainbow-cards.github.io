@@ -18,6 +18,8 @@ title: Manoa Rainbow Cards
 
 This TCG application aims to increase familiarity and engagement between the students and professors of the UH Manoa campus. Each professor card comes with various contact information, projects/achievements and fun facts about them, which may also be traded between users of the app. This further fosters a sense of community on campus, and helps students connect to their mentors better in a fun and engaging way!
 
+Beyond trading, card availability is limited based on factors like the number of people who registered for the course, card waves being limited to each academic semester, and a random chance to obtain a particular card, therefore encouraging interaction and trade between users to get professor cards they want. By students of the UH campus interacting with each other, <b>Manoa Rainbow Cards</b> hopes to contribute toward bridging the gap between student and faculty member and unify the family of the UH system that much more.
+
 The <b>Manoa Rainbow Cards</b> project implements the following technologies and resources:
 * [GitHub](https://github.com/)
 * [Meteor](https://www.meteor.com/)
@@ -26,12 +28,16 @@ The <b>Manoa Rainbow Cards</b> project implements the following technologies and
 
 ## Project Features
 
-Beyond basic site functionality as explored in prior software development stack exercises (refer to our course site [here](https://courses.ics.hawaii.edu/ics314s24/schedule/)), <b>Manoa Rainbow Cards</b> is planned to have features such as:
-* Viewable user profiles, which displays their cards with a degree of customizability
-* Search function to find other users' profiles
-* Catalog of all professor cards to see all cards that a user owns and doesn't own
-* Ability for professors to register on the app and edit their own cards
-* Cards with secret information that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
+Beyond basic site functionality as explored in prior software development stack exercises (refer to our course site [here](https://courses.ics.hawaii.edu/ics314s24/schedule/)), <b>Manoa Rainbow Cards</b> is planned to support features such as:
+* [COMMUNITY] <b>Trading feature</b>, which allows users to send trade requests and exchange cards they own
+* [COMMUNITY] Viewable user profiles, where <b>users display their cards with a degree of customizability</b>
+* [COMMUNITY] <b>Search function</b> to find other users' profiles
+* [USABILITY] Catalog of all professor cards to see all cards that a user owns and doesn't own
+* [USABILITY] Ability for professors to register on the app and edit their own cards
+* [INCENTIVE] Cards with secret information that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
+* [INCENTIVE] Ability for users to earn cards by engaging with the app, such as daily tasks that accrue points toward earning a card or opening semester-based card packs
+
+  *Features are subject to change and not indicative of the final product.
 
 ## Walkthrough
 A quick tour through our current mockup of the <b>Manoa Rainbow Cards</b> website (updated 4/4).
