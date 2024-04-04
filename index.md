@@ -111,6 +111,7 @@ $ meteor npm run start
   - [M1 Project Page](https://github.com/orgs/rainbow-cards/projects/1/views/1) (admin/collaborator-only access)
 - Experienced a team presentation (4/4)
   - [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
+  - [This very home page!](https://rainbow-cards.github.io/)
 - Final Project Milestone #1 (4/11)
   - TBD
 - Deploy the final project to Digital Ocean (4/11)
@@ -126,6 +127,7 @@ $ meteor npm run start
 * Benjamin Bercasio	  (bbercasi@hawaii.edu)
 * John Serraon		    (jserraon@hawaii.edu)
 * Yuzuki Fujimoto	    (yuzukif@hawaii.edu)
+* [Our Organization Page](https://github.com/rainbow-cards)
 
 ## Links
 * [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
