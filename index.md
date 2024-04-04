@@ -14,11 +14,11 @@ title: Manoa Rainbow Cards
 
 ## Overview
 
-Manoa Rainbow Cards is a Trading Card Game (TCG) app where the [University of Hawai'i at Manoa](https://manoa.hawaii.edu/) professors are the cards! Developed by the [team](#the-rainbow-cards-team) at Rainbow Cards.
+<b>Manoa Rainbow Cards</b> is a Trading Card Game (TCG) app where the [University of Hawai'i at Manoa](https://manoa.hawaii.edu/) professors are the cards! Developed by the [team](#the-rainbow-cards-team) at Rainbow Cards.
 
 This TCG application aims to increase familiarity and engagement between the students and professors of the UH Manoa campus. Each professor card comes with various contact information, projects/achievements and fun facts about them, which may also be traded between users of the app. This further fosters a sense of community on campus, and helps students connect to their mentors better in a fun and engaging way!
 
-The Manoa Rainbow Cards project implements the following technologies and resources:
+The <b>Manoa Rainbow Cards</b> project implements the following technologies and resources:
 * [GitHub](https://github.com/)
 * [Meteor](https://www.meteor.com/)
 * [React](https://reactjs.org/)
@@ -26,7 +26,7 @@ The Manoa Rainbow Cards project implements the following technologies and resour
 
 ## Project Features
 
-Manoa Rainbow Cards is planned to have features such as:
+Beyond basic site functionality as explored in prior software development stack exercises (refer to our course site [here](https://courses.ics.hawaii.edu/ics314s24/schedule/)), <b>Manoa Rainbow Cards</b> is planned to have features such as:
 * Viewable user profiles, which displays their cards with a degree of customizability
 * Search function to find other users' profiles
 * Catalog of all professor cards to see all cards that a user owns and doesn't own
@@ -34,10 +34,10 @@ Manoa Rainbow Cards is planned to have features such as:
 * Cards with secret information that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
 
 ## Walkthrough
-A quick tour through our current mockup of the Manoa Rainbow Cards website (updated 4/4).
+A quick tour through our current mockup of the <b>Manoa Rainbow Cards</b> website (updated 4/4).
 
 ### Landing Page
-The default page for Manoa Rainbow Cards, which informs the user about the site and how users can participate.
+The default page for <b>Manoa Rainbow Cards</b>, which informs the user about the site and how users can participate.
 
 <img src="site-mockup/landing-page.png" alt="Landing page mockup">
 
@@ -91,7 +91,7 @@ Professors will be able to make an account with professor-level privileges, allo
 ## Developer Guide
 - First, [install Meteor](https://www.meteor.com/install), and [GitHub Desktop](https://desktop.github.com/).
 - Second, go to [the Manoa Rainbow Cards repo](https://github.com/rainbow-cards/rainbow-cards.github.io), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
-- Third, cd into the app/ directory of your local copy of Manoa Rainbow Cards, and install third party libraries via cmd or PowerShell:
+- Third, cd into the app/ directory of your local copy of <b>Manoa Rainbow Cards</b>, and install third party libraries via cmd or PowerShell:
 
 ```
 $ meteor npm install
