@@ -30,7 +30,7 @@ The <b>Manoa Rainbow Cards</b> project implements the following technologies and
 
 Beyond basic site functionality as explored in prior software development stack exercises (refer to our course site [here](https://courses.ics.hawaii.edu/ics314s24/schedule/)), <b>Manoa Rainbow Cards</b> is planned to support features such as:
 * [COMMUNITY] <b>Trading feature</b>, which allows users to send trade requests and exchange cards they own
-* [COMMUNITY] Viewable user profiles, where <b>users display their cards with a degree of customizability</b>
+* [COMMUNITY] Viewable user profiles, where <b>users display their cards with a degree of customizability</b> and share a bit about themselves
 * [COMMUNITY] <b>Search function</b> to find other users' profiles
 * [COMMUNITY] <b>Profile suggestion feature</b> to enhance user interaction and card hunting
 * [USABILITY] Catalog of all professor cards to see all cards that a user owns and doesn't own
