@@ -32,6 +32,7 @@ Beyond basic site functionality as explored in prior software development stack 
 * [COMMUNITY] <b>Trading feature</b>, which allows users to send trade requests and exchange cards they own
 * [COMMUNITY] Viewable user profiles, where <b>users display their cards with a degree of customizability</b>
 * [COMMUNITY] <b>Search function</b> to find other users' profiles
+* [COMMUNITY] <b>Profile suggestion feature</b> to enhance user interaction and card hunting
 * [USABILITY] Catalog of all professor cards to see all cards that a user owns and doesn't own
 * [USABILITY] Ability for professors to register on the app and edit their own cards
 * [INCENTIVE] Cards with secret information that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
