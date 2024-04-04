@@ -108,7 +108,7 @@ $ meteor npm run start
 - Began Issue Driven Project Management (4/4)
   - [M1 Project Page](https://github.com/orgs/rainbow-cards/projects/1/views/1) (admin/collaborator-only access)
 - Experienced a team presentation (4/4)
-  - [Rainbow Cards' Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
+  - [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
 - Final Project Milestone #1 (4/11)
   - TBD
 - Deploy the final project to Digital Ocean (4/11)
@@ -128,4 +128,4 @@ $ meteor npm run start
 ## Links
 * [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
 * [Manoa Rainbow Cards project repo](https://github.com/rainbow-cards/rainbow-cards.github.io)
-* [Rainbow Cards' Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
+* [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
