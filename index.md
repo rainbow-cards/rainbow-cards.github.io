@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Manoa Rainbow Cards
+# Overview
 
-Manoa Rainbow Cards is a Meteor-based Trading Card Game (TCG) where University of Hawai'i at Manoa professors are the cards! Developed by the team at Rainbow Cards.
+Manoa Rainbow Cards is a Trading Card Game (TCG) app where University of Hawai'i at Manoa professors are the cards! Developed by the team at Rainbow Cards.
+
+This TCG application aims to increase familiarity and engagement between the students and professors of the UH Manoa campus - each professor card 
 
 ## Links
 * [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
