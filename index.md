@@ -34,7 +34,7 @@ Manoa Rainbow Cards is planned to have features such as:
 * Cards with secret information that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
 
 ## Walkthrough
-A quick tour through our current mockup of the Manoa Rainbow Cards website (updated 4/5).
+A quick tour through our current mockup of the Manoa Rainbow Cards website (updated 4/4).
 
 ### Landing Page
 The default page for Manoa Rainbow Cards, which informs the user about the site and how users can participate.
