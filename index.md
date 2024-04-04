@@ -37,7 +37,7 @@ Beyond basic site functionality as explored in prior software development stack 
 * [INCENTIVE] Cards with secret information that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
 * [INCENTIVE] Ability for users to earn cards by engaging with the app, such as daily tasks that accrue points toward earning a card or opening semester-based card packs
 
-  *Features are subject to change and not indicative of the final product.
+  <i>*Features are subject to change or removal and not indicative of the final product.</i>
 
 ## Walkthrough
 A quick tour through our current mockup of the <b>Manoa Rainbow Cards</b> website (updated 4/4).
