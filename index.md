@@ -106,7 +106,7 @@ $ meteor npm run start
 - Created a GitHub organization and home page (4/3-4/4)
   - [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
 - Began Issue Driven Project Management (4/4)
-  - [M1 Project Page](https://github.com/orgs/rainbow-cards/projects/1/views/1)(admin/collaborator-only access)
+  - [M1 Project Page](https://github.com/orgs/rainbow-cards/projects/1/views/1) (admin/collaborator-only access)
 - Experienced a team presentation (4/4)
   - [Rainbow Cards' Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
 - Final Project Milestone #1 (4/11)
