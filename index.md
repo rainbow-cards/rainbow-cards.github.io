@@ -4,6 +4,7 @@ title: Manoa Rainbow Cards
 ---
 
 ## Table of Contents
+* [App Deployment](#app-deployment)
 * [Overview](#overview)
 * [Project Features](#project-features)
 * [Walkthrough](#walkthrough)
@@ -11,6 +12,10 @@ title: Manoa Rainbow Cards
 * [Development Timeline](#development-timeline)
 * [The Rainbow Cards Team](#the-rainbow-cards-team)
 * [Links](#links)
+
+## App Deployment
+_Manoa Rainbow Cards_, hosted on [DigitalOcean](https://www.digitalocean.com/):
+- [http://138.197.31.32/](http://138.197.31.32/)
 
 ## Overview
 
@@ -109,17 +114,18 @@ $ meteor npm run start
 - Lastly, navigate to http://localhost:3000 to see the application running.
 
 ## Development Timeline
-- Created a Team Contract [4/2]
+- Created a Team Contract (4/2)
   - [Rainbow Cards Team Contract Google Doc](https://docs.google.com/document/d/1mPT3OwNUSHKBWtyxrerqiRkuc8SAxzc78EGnRSRvwDk/edit?usp=sharing)
 - Created a GitHub organization and home page (4/3-4/4)
   - [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
 - Began Issue Driven Project Management (4/3)
-  - [M1 Project Page](https://github.com/orgs/rainbow-cards/projects/1/views/1) (admin/collaborator-only access)
+  - [M1 Project Page](https://github.com/orgs/rainbow-cards/projects/1/views/1)
 - Experienced a team presentation (4/4)
   - [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
   - [This very home page!](https://rainbow-cards.github.io/)
 - Final Project Milestone #1 (4/11)
-  - TBD
+  - App deployed on [DigitalOcean](https://www.digitalocean.com/) at [http://138.197.31.32/](http://138.197.31.32/)
+  - [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
 - Deploy the final project to Digital Ocean (4/11)
   - TBD
 - Final Project Milestone #2 (4/23)
