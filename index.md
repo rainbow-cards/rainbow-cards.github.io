@@ -4,6 +4,7 @@ title: Manoa Rainbow Cards
 ---
 
 ## Table of Contents
+* [App Deployment](#app-deployment)
 * [Overview](#overview)
 * [Project Features](#project-features)
 * [Walkthrough](#walkthrough)
@@ -11,6 +12,10 @@ title: Manoa Rainbow Cards
 * [Development Timeline](#development-timeline)
 * [The Rainbow Cards Team](#the-rainbow-cards-team)
 * [Links](#links)
+
+## App Deployment
+_Manoa Rainbow Cards_, hosted on [DigitalOcean](https://www.digitalocean.com/):
+- [http://138.197.31.32/](http://138.197.31.32/)
 
 ## Overview
 
@@ -30,13 +35,12 @@ The <b>Manoa Rainbow Cards</b> project implements the following technologies and
 
 Beyond basic site functionality as explored in prior software development stack exercises (refer to our course site [here](https://courses.ics.hawaii.edu/ics314s24/schedule/)), <b>Manoa Rainbow Cards</b> is planned to support features such as:
 * [COMMUNITY] <b>Trading feature</b>, which allows users to send trade requests and exchange cards they own
-* [COMMUNITY] Viewable user profiles, where <b>users display their cards with a degree of customizability</b> and share a bit about themselves
+* [COMMUNITY] Viewable user profiles, where <b>users display their cards with a degree of customizability</b>
 * [COMMUNITY] <b>Search function</b> to find other users' profiles
-* [COMMUNITY] <b>Profile suggestion feature</b> to enhance user interaction and card hunting
 * [USABILITY] Catalog of all professor cards to see all cards that a user owns and doesn't own
 * [USABILITY] Ability for professors to register on the app and edit their own cards
-* [INCENTIVE] Cards with secret information that is <b>only revealed once the card is obtained</b> (what is that professor's super cool hobby, anyway?)
-* [INCENTIVE] Ability for users to <b>earn cards by engaging with the app</b>, such as daily tasks that accrue points toward earning a card or opening semester-based card packs
+* [INCENTIVE] Cards with secret information that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
+* [INCENTIVE] Ability for users to earn cards by engaging with the app, such as daily tasks that accrue points toward earning a card or opening semester-based card packs
 
   <i>*Features are subject to change or removal and not indicative of the final product.</i>
 
@@ -114,13 +118,14 @@ $ meteor npm run start
   - [Rainbow Cards Team Contract Google Doc](https://docs.google.com/document/d/1mPT3OwNUSHKBWtyxrerqiRkuc8SAxzc78EGnRSRvwDk/edit?usp=sharing)
 - Created a GitHub organization and home page (4/3-4/4)
   - [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
-- Began Issue Driven Project Management (4/3-)
+- Began Issue Driven Project Management (4/3)
   - [M1 Project Page](https://github.com/orgs/rainbow-cards/projects/1/views/1)
 - Experienced a team presentation (4/4)
   - [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
   - [This very home page!](https://rainbow-cards.github.io/)
 - Final Project Milestone #1 (4/11)
-  - [M1 Project Page](https://github.com/orgs/rainbow-cards/projects/1/views/1)
+  - App deployed on [DigitalOcean](https://www.digitalocean.com/) at [http://138.197.31.32/](http://138.197.31.32/)
+  - [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
 - Deploy the final project to Digital Ocean (4/11)
   - TBD
 - Final Project Milestone #2 (4/23)
