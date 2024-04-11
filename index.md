@@ -144,7 +144,7 @@ $ meteor npm run start
   - [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
   - [This very home page!](https://rainbow-cards.github.io/)
 - Final Project Milestone #1 (4/11)
-  - App deployed on [DigitalOcean](https://www.digitalocean.com/) at [http://138.197.31.32/](http://209.38.152.196/)
+  - App deployed on [DigitalOcean](https://www.digitalocean.com/) at [http://209.38.152.196/](http://209.38.152.196/)
   - [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
 - Final Project Milestone #2 (4/23)
   - [M2 Progress Board](https://github.com/orgs/rainbow-cards/projects/2/views/1)
