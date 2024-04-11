@@ -4,7 +4,7 @@ title: Manoa Rainbow Cards
 ---
 
 ## Table of Contents
-* [App Deployment](#app-deployment)
+* [Deployment](#deployment)
 * [Overview](#overview)
 * [Project Features](#project-features)
 * [Walkthrough](#walkthrough)
