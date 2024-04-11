@@ -13,9 +13,9 @@ title: Manoa Rainbow Cards
 * [The Rainbow Cards Team](#the-rainbow-cards-team)
 * [Links](#links)
 
-## App Deployment
+## Deployment
 _Manoa Rainbow Cards_, hosted on [DigitalOcean](https://www.digitalocean.com/):
-- [http://138.197.31.32/](http://138.197.31.32/)
+- [http://209.38.152.196/](http://209.38.152.196/)
 
 ## Overview
 
@@ -124,7 +124,7 @@ $ meteor npm run start
   - [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
   - [This very home page!](https://rainbow-cards.github.io/)
 - Final Project Milestone #1 (4/11)
-  - App deployed on [DigitalOcean](https://www.digitalocean.com/) at [http://138.197.31.32/](http://138.197.31.32/)
+  - App deployed on [DigitalOcean](https://www.digitalocean.com/) at [http://138.197.31.32/](http://209.38.152.196/)
   - [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
 - Deploy the final project to Digital Ocean (4/11)
   - TBD
@@ -140,6 +140,7 @@ $ meteor npm run start
 * John Serraon		    (jserraon@hawaii.edu)
 * Yuzuki Fujimoto	    (yuzukif@hawaii.edu)
 * [Our Organization Page](https://github.com/rainbow-cards)
+* [Team Contract](https://docs.google.com/document/d/1mPT3OwNUSHKBWtyxrerqiRkuc8SAxzc78EGnRSRvwDk/edit?usp=sharing)
 
 ## Links
 * [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
