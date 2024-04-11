@@ -28,6 +28,8 @@ Beyond trading, card availability is limited based on factors like the number of
 If you are a UHM professor or mentor and would like to participate, please fill out our survey (or share it with someone who does!): 
 * [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
 
+<br>
+
 The <b>Manoa Rainbow Cards</b> project implements the following technologies and resources:
 * [GitHub](https://github.com/)
 * [Meteor](https://www.meteor.com/)
@@ -129,10 +131,8 @@ $ meteor npm run start
 - Final Project Milestone #1 (4/11)
   - App deployed on [DigitalOcean](https://www.digitalocean.com/) at [http://138.197.31.32/](http://209.38.152.196/)
   - [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
-- Deploy the final project to Digital Ocean (4/11)
-  - TBD
 - Final Project Milestone #2 (4/23)
-  - TBD
+  - [M2 Progress Board](https://github.com/orgs/rainbow-cards/projects/2/views/1)
 - Final Project Milestone #3 (5/1)
   - TBD
 
@@ -150,3 +150,5 @@ $ meteor npm run start
 * [Manoa Rainbow Cards project repo](https://github.com/rainbow-cards/rainbow-cards.github.io)
 * [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
 * [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
+* [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
+* [M2 Progress Board](https://github.com/orgs/rainbow-cards/projects/2/views/1)
