@@ -50,59 +50,74 @@ Beyond basic site functionality as explored in prior software development stack 
   <i>*Features are subject to change or removal and not indicative of the final product.</i>
 
 ## Walkthrough
-A quick tour through our current mockup of the <b>Manoa Rainbow Cards</b> website (updated 4/4).
+A quick tour through our current build of the <b>Manoa Rainbow Cards</b> website (updated 4/11).
 
 ### Landing Page
 The default page for <b>Manoa Rainbow Cards</b>, which informs the user about the site and how users can participate.
 
-<img src="site-mockup/landing-page.png" alt="Landing page mockup">
+<img src="doc/landing-page.png" alt="Landing page">
 
 ### Login & Register Pages
 After clicking on the login button, a login page is displayed: 
-<img src="site-mockup/login-page.png" alt="Login page mockup">
+<img src="doc/log-in-page.png" alt="Login page">
 
 If the user does not have an account or wishes to create one, they will be able to navigate to a sign up page to register for an account: 
-<img src="site-mockup/register-page.png" alt="Register account page mockup">
+<img src="doc/register-page.png" alt="Register account page">
 
 ### User Profile Page
 Upon signing in with an account, the user can click their account name button to reach their profile page:
-<img src="site-mockup/profile-page-custom.png" alt="User profile page mockup">
+<img src="doc/profile-page-custom.png" alt="User profile page">
 
  This page will display all of the user's Rainbow Cards, which can be rearranged according to the user's preferences. If a user has more than one of a Rainbow Card, it will be displayed. The profile may also include features like displaying which cards the user wants to trade away or collect, as well as displaying user's interests.
  
 ### Profile Search Page
 Users will be able to search for other profiles, such as by account name/email (as seen below):
-<img src="site-mockup/profile-search-page.png" alt="Profile search page mockup">
+<img src="doc/profile-search-page.png" alt="Profile search page">
 
 Other methods may be introduced such as searching by card, or a site suggestion feature that spotlights user profiles at random. This can help users find Rainbow Cards they want to trade for, and can match a professor's cards to the user's interests to help them learn more about the UH faculty.
 
 ### Trade Requests Page
 Users can also navigate to a page where they can view trade requests they have received:
-<img src="site-mockup/trade-request-page.png" alt="Trade requests received page mockup"> 
+<div>
+    <img src="site-mockup/trade-request-page.png" alt="Trade requests received page mockup"> 
+    <p>(<i>Trade Requests mock-up</i>)</p>
+</div>
 
-From here, users can accept or decline the offer, or navigate to the requester's profile.
+From here, users can accept or decline the offer, or navigate to the requesting user's profile.
 
 ### Card Catalog Page
 Users can also view a catalog page of all Rainbow Cards in the database:
-<img src="site-mockup/catalog-page.png" alt="Card catalog page mockup">
+<img src="doc/catalog-page.png" alt="Card catalog page">
 
 This page allows users to browse through the different professors' cards, letting them find out more about them or figure out who they want to know more about.
 
 ### Add Card Page (Admin)
-Rainbow Cards can be added at the adminstrator-level, which will appear in a format like this:
+Rainbow Cards can be added at the administrator-level, which will appear in a format like this:
 
-<img src="site-mockup/add-card-page.png" alt="Add Rainbow Card page mockup">
+<img src="doc/add-card-page.png" alt="Add Rainbow Card page">
 
 Information like the professor's name, an image of them, the class and semester the card is based on, the department the professor is under, their email, and a variety of fun facts and achievements can be entered.
 
 ### Edit Card Page (Admin)
-Adminstrators can also edit information on any Rainbow Card. The page will appear in a similar format to adding a card. The current card can be previewed on the side so the editor can refer to its information as they make changes:
+Administrators can also edit information on any Rainbow Card. The page will appear in a similar format to adding a card:
 
-<img src="site-mockup/edit-card-admin.png" alt="Edit Rainbow Card page mockup (admin privileges)">
+<img src="doc/edit-card-page.png" alt="Edit Rainbow Card page (admin privileges)">
+
+A preview of the current card on the side is planned to be implemented, so the editor can refer to its information as they make changes:
+
+<div>
+    <img src="site-mockup/edit-card-admin.png" alt="Edit Rainbow Card page mockup (adminprivileges)">
+    <p>(<i>Edit Card page with preview mock-up</i>)</p>
+</div>
+
 
 ### Edit Card Page (Professor)
 Professors will be able to make an account with professor-level privileges, allowing them to edit cards associated with themselves only. The form is the same as the admin version:
-<img src="site-mockup/edit-card-professor.png" alt="Edit Rainbow Card page mockup (professor privileges)">
+
+<div>
+    <img src="site-mockup/edit-card-professor.png" alt="Edit Rainbow Card page mockup (professor privileges)">
+    <p>(<i>Professor Edit Card page mock-up</i>)</p>
+</div>
 
 ## Developer Guide
 - First, [install Meteor](https://www.meteor.com/install), and [GitHub Desktop](https://desktop.github.com/).
@@ -142,7 +157,7 @@ $ meteor npm run start
 * Benjamin Bercasio	  (bbercasi@hawaii.edu)
 * John Serraon		    (jserraon@hawaii.edu)
 * Yuzuki Fujimoto	    (yuzukif@hawaii.edu)
-* [Our Organization Page](https://github.com/rainbow-cards)
+* [GitHub Organization](https://github.com/rainbow-cards)
 * [Team Contract](https://docs.google.com/document/d/1mPT3OwNUSHKBWtyxrerqiRkuc8SAxzc78EGnRSRvwDk/edit?usp=sharing)
 
 ## Links
