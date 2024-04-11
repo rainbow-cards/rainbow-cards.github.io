@@ -25,6 +25,9 @@ This TCG application aims to increase familiarity and engagement between the stu
 
 Beyond trading, card availability is limited based on factors like the number of people who registered for the course, card waves being limited to each academic semester, and a random chance to obtain a particular card, therefore encouraging interaction and trade between users to get professor cards they want. By students of the UH campus interacting with each other, <b>Manoa Rainbow Cards</b> hopes to contribute toward bridging the gap between student and faculty member and unify the family of the UH system that much more.
 
+If you are a UHM professor or mentor and would like to participate, please fill out our survey (or share it with someone who does!): 
+* [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
+
 The <b>Manoa Rainbow Cards</b> project implements the following technologies and resources:
 * [GitHub](https://github.com/)
 * [Meteor](https://www.meteor.com/)
@@ -146,3 +149,4 @@ $ meteor npm run start
 * [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
 * [Manoa Rainbow Cards project repo](https://github.com/rainbow-cards/rainbow-cards.github.io)
 * [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
+* [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
