@@ -168,7 +168,7 @@ About Us
 
 Team Members
 <div class="row" style="display: flex;">
-    <div class="col">
+    <div class="col" style="flex: 1;">
         <ul>
             <li>Daevin Bagcal</li>
             <li>Benjamin Bercasio</li>
@@ -177,7 +177,7 @@ Team Members
             <li>John Serraon</li>
         </ul>
     </div>
-    <div class="col">
+    <div class="col" style="flex: 1;">
         <ul style="list-style-type: none;">
             <li>(daevinb@hawaii.edu)</li>
             <li>(bbercasi@hawaii.edu)</li>
