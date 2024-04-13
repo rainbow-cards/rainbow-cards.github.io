@@ -11,7 +11,7 @@ title: Manoa Rainbow Cards
 * [Developer Guide](#developer-guide)
 * [Development Timeline](#development-timeline)
 * [The Rainbow Cards Team](#the-rainbow-cards-team)
-* [Links](#links)
+* [Misc. Links](#misc-links)
 
 ## Deployment
 _Manoa Rainbow Cards_, hosted on [DigitalOcean](https://www.digitalocean.com/):
@@ -19,18 +19,20 @@ _Manoa Rainbow Cards_, hosted on [DigitalOcean](https://www.digitalocean.com/):
 
 ## Overview
 
-<b>Manoa Rainbow Cards</b> is a Trading Card Game (TCG) app where the [University of Hawai'i at Manoa](https://manoa.hawaii.edu/) professors are the cards! Developed by the [team](#the-rainbow-cards-team) at Rainbow Cards.
+**Manoa Rainbow Cards** is a Trading Card Game (TCG) app where the [University of Hawai'i at Manoa](https://manoa.hawaii.edu/) professors are the cards! Developed by the [team](#the-rainbow-cards-team) at Rainbow Cards.
 
 This TCG application aims to increase familiarity and engagement between the students and professors of the UH Manoa campus. Each professor card comes with various contact information, projects/achievements and fun facts about them, which may also be traded between users of the app. This further fosters a sense of community on campus, and helps students connect to their mentors better in a fun and engaging way!
 
-Beyond trading, card availability is limited based on factors like the number of people who registered for the course, card waves being limited to each academic semester, and a random chance to obtain a particular card, therefore encouraging interaction and trade between users to get professor cards they want. By students of the UH campus interacting with each other, <b>Manoa Rainbow Cards</b> hopes to contribute toward bridging the gap between student and faculty member and unify the family of the UH system that much more.
+Beyond trading, card availability is limited based on factors like the number of people who registered for the course, card waves being limited to each academic semester, and a random chance to obtain a particular card, therefore encouraging 
+interaction and trade between users to get professor cards they want. By students of the UH campus interacting with each other, **Manoa Rainbow Cards** hopes to contribute toward bridging the gap between student and faculty member and unify 
+the family of the UH system that much more.
 
 If you are a UHM professor or mentor and would like to participate, please fill out our survey (or share it with someone who does!): 
 * [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
 
 <br>
 
-The <b>Manoa Rainbow Cards</b> project implements the following technologies and resources:
+The **Manoa Rainbow Cards** project implements the following technologies and resources:
 * [GitHub](https://github.com/)
 * [Meteor](https://www.meteor.com/)
 * [React](https://reactjs.org/)
@@ -38,22 +40,22 @@ The <b>Manoa Rainbow Cards</b> project implements the following technologies and
 
 ## Project Features
 
-Beyond basic site functionality as explored in prior software development stack exercises (refer to our course site [here](https://courses.ics.hawaii.edu/ics314s24/schedule/)), <b>Manoa Rainbow Cards</b> is planned to support features such as:
-* [COMMUNITY] <b>Trading feature</b>, which allows users to send trade requests and exchange cards they own
-* [COMMUNITY] Viewable user profiles, where <b>users display their cards with a degree of customizability</b>
-* [COMMUNITY] <b>Search function</b> to find other users' profiles
+Beyond basic site functionality as explored in prior software development stack exercises (refer to our course site [here](https://courses.ics.hawaii.edu/ics314s24/schedule/)), **Manoa Rainbow Cards** is planned to support features such as:
+* [COMMUNITY] **Trading feature**, which allows users to send trade requests and exchange cards they own
+* [COMMUNITY] Viewable user profiles, where **users display their cards with a degree of customizability**
+* [COMMUNITY] **Search function** to find other users' profiles
 * [USABILITY] Catalog of all professor cards to see all cards that a user owns and doesn't own
 * [USABILITY] Ability for professors to register on the app and edit their own cards
 * [INCENTIVE] Cards with secret information that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
 * [INCENTIVE] Ability for users to earn cards by engaging with the app, such as daily tasks that accrue points toward earning a card or opening semester-based card packs
 
-  <i>*Features are subject to change or removal and not indicative of the final product.</i>
+  _*Features are subject to change or removal and not indicative of the final product._
 
 ## Walkthrough
-A quick tour through our current build of the <b>Manoa Rainbow Cards</b> website (updated 4/11).
+A quick tour through our current build of the **Manoa Rainbow Cards** website (updated 4/11).
 
 ### Landing Page
-The default page for <b>Manoa Rainbow Cards</b>, which informs the user about the site and how users can participate.
+The default page for **Manoa Rainbow Cards**, which informs the user about the site and how users can participate.
 
 <img src="doc/landing-page.png" alt="Landing page">
 
@@ -66,13 +68,13 @@ If the user does not have an account or wishes to create one, they will be able 
 
 ### User Profile Page
 Upon signing in with an account, the user can click their account name button to reach their profile page:
-<img src="doc/profile-page-custom.png" alt="User profile page">
+<img src="doc/list-user-cards-page.png" alt="User profile page">
 
  This page will display all of the user's Rainbow Cards, which can be rearranged according to the user's preferences. If a user has more than one of a Rainbow Card, it will be displayed. The profile may also include features like displaying which cards the user wants to trade away or collect, as well as displaying user's interests.
  
 ### Profile Search Page
 Users will be able to search for other profiles, such as by account name/email (as seen below):
-<img src="doc/profile-search-page.png" alt="Profile search page">
+<img src="site-mockup/profile-search-page.png" alt="Profile search page">
 
 Other methods may be introduced such as searching by card, or a site suggestion feature that spotlights user profiles at random. This can help users find Rainbow Cards they want to trade for, and can match a professor's cards to the user's interests to help them learn more about the UH faculty.
 
@@ -160,10 +162,10 @@ $ meteor npm run start
 * [GitHub Organization](https://github.com/rainbow-cards)
 * [Team Contract](https://docs.google.com/document/d/1mPT3OwNUSHKBWtyxrerqiRkuc8SAxzc78EGnRSRvwDk/edit?usp=sharing)
 
-## Links
-* [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
+## Misc. Links
 * [Manoa Rainbow Cards project repo](https://github.com/rainbow-cards/rainbow-cards.github.io)
-* [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
+* [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
+* [Team Contract](https://docs.google.com/document/d/1mPT3OwNUSHKBWtyxrerqiRkuc8SAxzc78EGnRSRvwDk/edit?usp=sharing)
 * [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
 * [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
 * [M2 Progress Board](https://github.com/orgs/rainbow-cards/projects/2/views/1)
