@@ -14,7 +14,7 @@ title: Manoa Rainbow Cards
 * [Misc. Links](#misc-links)
 
 ## Deployment
-_Manoa Rainbow Cards_, hosted on [DigitalOcean](https://www.digitalocean.com/):
+**_Manoa Rainbow Cards_**, hosted on [DigitalOcean](https://www.digitalocean.com/):
 - [http://209.38.152.196/](http://209.38.152.196/)
 
 ## Overview
@@ -37,17 +37,20 @@ The **Manoa Rainbow Cards** project implements the following technologies and re
 * [Meteor](https://www.meteor.com/)
 * [React](https://reactjs.org/)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [DigitalOcean](https://www.digitalocean.com/)
 
 ## Project Features
 
 Beyond basic site functionality as explored in prior software development stack exercises (refer to our course site [here](https://courses.ics.hawaii.edu/ics314s24/schedule/)), **Manoa Rainbow Cards** is planned to support features such as:
 * [COMMUNITY] **Trading feature**, which allows users to send trade requests and exchange cards they own
+* [COMMUNITY] Profile suggestions that **help link users** through cards they don't own
 * [COMMUNITY] Viewable user profiles, where **users display their cards with a degree of customizability**
 * [COMMUNITY] **Search function** to find other users' profiles
 * [USABILITY] Catalog of all professor cards to see all cards that a user owns and doesn't own
-* [USABILITY] Ability for professors to register on the app and edit their own cards
-* [INCENTIVE] Cards with secret information that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
-* [INCENTIVE] Ability for users to earn cards by engaging with the app, such as daily tasks that accrue points toward earning a card or opening semester-based card packs
+* [USABILITY] Ability for professors to register on the app so they can **edit and distribute** their own cards
+* [INCENTIVE] Cards with **secret information** that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
+* [INCENTIVE] Ability for users to **earn cards by engaging with the app**, such as daily tasks that accrue points toward earning a card or opening semester-based card packs
+* [INCENTIVE] **Achievements** that users can earn by completing certain tasks or collecting certain combinations of cards
 
   _*Features are subject to change or removal and not indicative of the final product._
 
@@ -73,13 +76,16 @@ Upon signing in with an account, the user can click their account name button to
  This page will display all of the user's Rainbow Cards, which can be rearranged according to the user's preferences. If a user has more than one of a Rainbow Card, it will be displayed. The profile may also include features like displaying which cards the user wants to trade away or collect, as well as displaying user's interests.
  
 ### Profile Search Page
-Users will be able to search for other profiles, such as by account name/email (as seen below):
-<img src="site-mockup/profile-search-page.png" alt="Profile search page">
+[Planned feature] Users will be able to search for other profiles, such as by account name/email (as seen below):
+<div>
+    <img src="site-mockup/profile-search-page.png" alt="Profile search page mockup">
+    <p>(<i>Edit Card page with preview mock-up</i>)</p>
+</div>
 
 Other methods may be introduced such as searching by card, or a site suggestion feature that spotlights user profiles at random. This can help users find Rainbow Cards they want to trade for, and can match a professor's cards to the user's interests to help them learn more about the UH faculty.
 
 ### Trade Requests Page
-Users can also navigate to a page where they can view trade requests they have received:
+[Planned feature] Users can also navigate to a page where they can view trade requests they have received:
 <div>
     <img src="site-mockup/trade-request-page.png" alt="Trade requests received page mockup"> 
     <p>(<i>Trade Requests mock-up</i>)</p>
@@ -105,7 +111,7 @@ Administrators can also edit information on any Rainbow Card. The page will appe
 
 <img src="doc/edit-card-page.png" alt="Edit Rainbow Card page (admin privileges)">
 
-A preview of the current card on the side is planned to be implemented, so the editor can refer to its information as they make changes:
+[Planned feature] A preview of the current card on the side is planned to be implemented, so the editor can refer to its information as they make changes:
 
 <div>
     <img src="site-mockup/edit-card-admin.png" alt="Edit Rainbow Card page mockup (adminprivileges)">
@@ -114,7 +120,7 @@ A preview of the current card on the side is planned to be implemented, so the e
 
 
 ### Edit Card Page (Professor)
-Professors will be able to make an account with professor-level privileges, allowing them to edit cards associated with themselves only. The form is the same as the admin version:
+[Planned feature] Professors will be able to make an account with professor-level privileges, allowing them to edit cards associated with themselves only. The form is the same as the admin version:
 
 <div>
     <img src="site-mockup/edit-card-professor.png" alt="Edit Rainbow Card page mockup (professor privileges)">
@@ -124,7 +130,7 @@ Professors will be able to make an account with professor-level privileges, allo
 ## Developer Guide
 - First, [install Meteor](https://www.meteor.com/install), and [GitHub Desktop](https://desktop.github.com/).
 - Second, go to [the Manoa Rainbow Cards repo](https://github.com/rainbow-cards/rainbow-cards.github.io), click the "Code" dropdown and clone the digits repo (i.e. using the "Open with GitHub Desktop" option).
-- Third, cd into the app/ directory of your local copy of <b>Manoa Rainbow Cards</b>, and install third party libraries via cmd or PowerShell:
+- Third, cd into the app/ directory of your local copy of **Manoa Rainbow Cards**, and install third party libraries via cmd or PowerShell:
 
 ```
 $ meteor npm install
@@ -145,22 +151,41 @@ $ meteor npm run start
 - Experienced a team presentation (4/4)
   - [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
   - [This very home page!](https://rainbow-cards.github.io/)
-- Final Project Milestone #1 (4/11)
+- Final Project Milestone #1 (4/3-4/11)
   - App deployed on [DigitalOcean](https://www.digitalocean.com/) at [http://209.38.152.196/](http://209.38.152.196/)
   - [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
-- Final Project Milestone #2 (4/23)
+- Final Project Milestone #2 (4/12-4/23)
   - [M2 Progress Board](https://github.com/orgs/rainbow-cards/projects/2/views/1)
-- Final Project Milestone #3 (5/1)
+- Final Project Milestone #3 (4/24-5/1)
   - TBD
 
 ## The Rainbow Cards Team
-* Elijah Saloma	      (esaloma@hawaii.edu)
-* Daevin Bagcal	      (daevinb@hawaii.edu)
-* Benjamin Bercasio	  (bbercasi@hawaii.edu)
-* John Serraon		    (jserraon@hawaii.edu)
-* Yuzuki Fujimoto	    (yuzukif@hawaii.edu)
+
+About Us
 * [GitHub Organization](https://github.com/rainbow-cards)
 * [Team Contract](https://docs.google.com/document/d/1mPT3OwNUSHKBWtyxrerqiRkuc8SAxzc78EGnRSRvwDk/edit?usp=sharing)
+
+Team Members
+<div class="row" style="display: flex;">
+    <div class="col">
+        <ul>
+            <li>Daevin Bagcal</li>
+            <li>Benjamin Bercasio</li>
+            <li>Yuzuki Fujimoto</li>
+            <li>Elijah Saloma</li>
+            <li>John Serraon</li>
+        </ul>
+    </div>
+    <div class="col">
+        <ul style="list-style-type: none;">
+            <li>(daevinb@hawaii.edu)</li>
+            <li>(bbercasi@hawaii.edu)</li>
+            <li>(yuzukif@hawaii.edu)</li>
+            <li>(esaloma@hawaii.edu)</li>
+            <li>(jserraon@hawaii.edu)</li>
+        </ul>
+    </div>
+</div>
 
 ## Misc. Links
 * [Manoa Rainbow Cards project repo](https://github.com/rainbow-cards/rainbow-cards.github.io)
