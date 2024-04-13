@@ -136,6 +136,7 @@ Administrators can also edit information on any Rainbow Card. The page will appe
 $ meteor npm install
 ```
 - Fourth, once the libraries are installed, you can run the application by invoking the following:
+
 ```
 $ meteor npm run start
 ```
