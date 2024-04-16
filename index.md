@@ -158,7 +158,7 @@ $ meteor npm run start
 - Final Project Milestone #2 (4/12-4/23)
   - [M2 Progress Board](https://github.com/orgs/rainbow-cards/projects/2/views/1)
 - Final Project Milestone #3 (4/24-5/1)
-  - TBD
+  - [M3 Progress Board](https://github.com/orgs/rainbow-cards/projects/3/views/1)
 
 ## The Rainbow Cards Team
 
@@ -195,3 +195,4 @@ Team Members
 * [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
 * [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
 * [M2 Progress Board](https://github.com/orgs/rainbow-cards/projects/2/views/1)
+* [M3 Progress Board](https://github.com/orgs/rainbow-cards/projects/3/views/1)
