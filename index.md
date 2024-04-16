@@ -54,8 +54,8 @@ Beyond basic site functionality as explored in prior software development stack 
 
   _*Features are subject to change or removal and not indicative of the final product._
 
-## Walkthrough
-A quick tour through our current build of the **Manoa Rainbow Cards** website (updated 4/11).
+## User Guide
+A tour through our current build of the **Manoa Rainbow Cards** website (updated 4/11).
 
 ### Landing Page
 The default page for **Manoa Rainbow Cards**, which informs the user about the site and how users can participate.
