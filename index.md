@@ -7,7 +7,7 @@ title: Manoa Rainbow Cards
 * [Deployment](#deployment)
 * [Overview](#overview)
 * [Project Features](#project-features)
-* [Walkthrough](#walkthrough)
+* [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Development Timeline](#development-timeline)
 * [The Rainbow Cards Team](#the-rainbow-cards-team)
@@ -15,7 +15,7 @@ title: Manoa Rainbow Cards
 
 ## Deployment
 **_Manoa Rainbow Cards_**, hosted on [DigitalOcean](https://www.digitalocean.com/):
-- [http://209.38.152.196/](http://209.38.152.196/)
+### https://manoa-rainbow-cards.xyz/
 
 ## Overview
 
@@ -28,7 +28,7 @@ interaction and trade between users to get professor cards they want. By student
 the family of the UH system that much more.
 
 If you are a UHM professor or mentor and would like to participate, please fill out our survey (or share it with someone who does!): 
-* [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
+### [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
 
 <br>
 
@@ -153,20 +153,21 @@ $ meteor npm run start
   - [Manoa Rainbow Cards Site Mockup Slides](https://docs.google.com/presentation/d/1dAR1c53dGjUel7C0VYMQQaqJKXNSGDNJ1eTtrfUuGn8/edit?usp=sharing)
   - [This very home page!](https://rainbow-cards.github.io/)
 - Final Project Milestone #1 (4/3-4/11)
-  - App deployed on [DigitalOcean](https://www.digitalocean.com/) at [http://209.38.152.196/](http://209.38.152.196/)
+  - App deployed on [DigitalOcean](https://www.digitalocean.com/) at http://209.38.152.196/
   - [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
 - Final Project Milestone #2 (4/12-4/23)
   - [M2 Progress Board](https://github.com/orgs/rainbow-cards/projects/2/views/1)
+  - Updated app with custom domain at https://manoa-rainbow-cards.xyz/
 - Final Project Milestone #3 (4/24-5/1)
   - [M3 Progress Board](https://github.com/orgs/rainbow-cards/projects/3/views/1)
 
 ## The Rainbow Cards Team
 
-About Us
+### About Us
 * [GitHub Organization](https://github.com/rainbow-cards)
 * [Team Contract](https://docs.google.com/document/d/1mPT3OwNUSHKBWtyxrerqiRkuc8SAxzc78EGnRSRvwDk/edit?usp=sharing)
 
-Team Members
+### Team Members
 <div class="row" style="display: flex;">
     <div class="col" style="flex: 1;">
         <ul>
