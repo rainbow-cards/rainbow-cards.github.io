@@ -190,7 +190,7 @@ $ meteor npm run start
 </div>
 
 ## Misc. Links
-* [Manoa Rainbow Cards project repo](https://github.com/rainbow-cards/rainbow-cards.github.io)
+* [Manoa Rainbow Cards project repo](https://github.com/rainbow-cards/manoa-rainbow-cards)
 * [Rainbow Cards GitHub Organization](https://github.com/rainbow-cards)
 * [Team Contract](https://docs.google.com/document/d/1mPT3OwNUSHKBWtyxrerqiRkuc8SAxzc78EGnRSRvwDk/edit?usp=sharing)
 * [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
