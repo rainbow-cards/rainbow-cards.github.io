@@ -15,7 +15,9 @@ title: Manoa Rainbow Cards
 
 ## Deployment
 **_Manoa Rainbow Cards_**, hosted on [DigitalOcean](https://www.digitalocean.com/):
-https://manoa-rainbow-cards.xyz/
+
+[https://manoa-rainbow-cards.xyz/](https://manoa-rainbow-cards.xyz/)
+
 ![ci-badge](https://github.com/rainbow-cards/manoa-rainbow-cards/workflows/ci-manoa-rainbow-cards/badge.svg)
 
 ## Overview
@@ -29,6 +31,7 @@ interaction and trade between users to get professor cards they want. By student
 the family of the UH system that much more.
 
 If you are a UHM professor or mentor and would like to participate, please fill out our survey (or share it with someone who does!): 
+
 [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
 
 <br>
@@ -56,7 +59,7 @@ Beyond basic site functionality as explored in prior software development stack 
   _*Features are subject to change or removal and not indicative of the final product._
 
 ## User Guide
-A tour through our current build of the **Manoa Rainbow Cards** website (updated 4/11).
+A tour through our current build of the **Manoa Rainbow Cards** website (updated 4/21).
 
 ### Landing Page
 The default page for **Manoa Rainbow Cards**, which informs the user about the site and how users can participate.
@@ -70,11 +73,18 @@ After clicking on the login button, a login page is displayed:
 If the user does not have an account or wishes to create one, they will be able to navigate to a sign up page to register for an account: 
 <img src="doc/register-page.png" alt="Register account page">
 
-### User Profile Page
-Upon signing in with an account, the user can click their account name button to reach their profile page:
+### Sign Out Page
+Upon logging out, the user will be redirected to a page confirming that they have signed out:
+<img src="doc/sign-out-page.png" alt="Signed out page">
+
+### My Cards Page
+Upon signing in with an account, the user can navigate to their My Cards page:
 <img src="doc/list-user-cards-page.png" alt="User profile page">
 
- This page will display all of the user's Rainbow Cards, which can be rearranged according to the user's preferences. If a user has more than one of a Rainbow Card, it will be displayed. The profile may also include features like displaying which cards the user wants to trade away or collect, as well as displaying user's interests.
+ This page will display all of the user's Rainbow Cards, which is planned to be customizable according to the user's preferences. If a user has more than one of a Rainbow Card, it will be conveyed through an element like a counter. The profile may 
+ also include features 
+ like 
+ displaying which cards the user wants to trade away or collect, as well as displaying user's interests.
  
 ### Profile Search Page
 [Planned feature] Users will be able to search for other profiles, such as by account name/email (as seen below):
@@ -127,6 +137,11 @@ Administrators can also edit information on any Rainbow Card. The page will appe
     <img src="site-mockup/edit-card-professor.png" alt="Edit Rainbow Card page mockup (professor privileges)">
     <p>(<i>Professor Edit Card page mock-up</i>)</p>
 </div>
+
+### DevTest Page (Admin)
+The DevTest page is an environment for developers to prototype of site features and functionality before broader implementation.
+
+<img src="doc/devtest-page.png" alt="DevTest page">
 
 ## Developer Guide
 - First, [install Meteor](https://www.meteor.com/install), and [GitHub Desktop](https://desktop.github.com/).
