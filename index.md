@@ -15,7 +15,7 @@ title: Manoa Rainbow Cards
 
 ## Deployment
 **_Manoa Rainbow Cards_**, hosted on [DigitalOcean](https://www.digitalocean.com/):
-### https://manoa-rainbow-cards.xyz/
+https://manoa-rainbow-cards.xyz/
 ![ci-badge](https://github.com/rainbow-cards/manoa-rainbow-cards/workflows/ci-manoa-rainbow-cards/badge.svg)
 
 ## Overview
@@ -29,7 +29,7 @@ interaction and trade between users to get professor cards they want. By student
 the family of the UH system that much more.
 
 If you are a UHM professor or mentor and would like to participate, please fill out our survey (or share it with someone who does!): 
-### [Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
+[Professor Opt-In Google Form](https://forms.gle/RJjyfaoXvakZ6eQNA)
 
 <br>
 
