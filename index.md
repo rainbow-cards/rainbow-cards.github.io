@@ -16,6 +16,7 @@ title: Manoa Rainbow Cards
 ## Deployment
 **_Manoa Rainbow Cards_**, hosted on [DigitalOcean](https://www.digitalocean.com/):
 ### https://manoa-rainbow-cards.xyz/
+![ci-badge](https://github.com/rainbow-cards/manoa-rainbow-cards/workflows/ci-manoa-rainbow-cards/badge.svg)
 
 ## Overview
 
@@ -157,7 +158,7 @@ $ meteor npm run start
   - [M1 Progress Board](https://github.com/orgs/rainbow-cards/projects/1/views/1)
 - Final Project Milestone #2 (4/12-4/23)
   - [M2 Progress Board](https://github.com/orgs/rainbow-cards/projects/2/views/1)
-  - Updated app with custom domain at https://manoa-rainbow-cards.xyz/
+  - Updated app with custom domain at [https://manoa-rainbow-cards.xyz/](https://manoa-rainbow-cards.xyz/)
 - Final Project Milestone #3 (4/24-5/1)
   - [M3 Progress Board](https://github.com/orgs/rainbow-cards/projects/3/views/1)
 
