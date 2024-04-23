@@ -59,7 +59,7 @@ Beyond basic site functionality as explored in prior software development stack 
   _*Features are subject to change or removal and not indicative of the final product._
 
 ## User Guide
-A tour through our current build of the **Manoa Rainbow Cards** website (updated 4/21).
+A tour through our current build of the **Manoa Rainbow Cards** website (updated 4/23).
 
 ### Landing Page
 The default page for **Manoa Rainbow Cards**, which informs the user about the site and how users can participate.
@@ -76,6 +76,11 @@ If the user does not have an account or wishes to create one, they will be able 
 ### Sign Out Page
 Upon logging out, the user will be redirected to a page confirming that they have signed out:
 <img src="doc/sign-out-page.png" alt="Signed out page">
+
+### Not Authorized Page
+This page displays if the user tries to access a page they are not authorized to view, such as a non-admin user trying to access the Admin page:
+
+<img src="doc/not-auth-page.png" alt="Not Authorized page">
 
 ### My Cards Page
 Upon signing in with an account, the user can navigate to their My Cards page:
@@ -108,14 +113,13 @@ From here, users can accept or decline the offer, or navigate to the requesting 
 Users can also view a catalog page of all Rainbow Cards in the database:
 <img src="doc/catalog-page.png" alt="Card catalog page">
 
-This page allows users to browse through the different professors' cards, letting them find out more about them or figure out who they want to know more about.
+This page allows users to browse through the different professors' cards, letting them find who is in the app, and figure out who they want to know more about. Card information is intended to be hidden if the owner does not own the Rainbow Card 
+themselves.
 
-### Add Card Page (Admin)
-Rainbow Cards can be added at the administrator-level, which will appear in a format like this:
+### Card Catalog Page (Admin)
+Admin accounts can navigate to a page titled "Admin", which displays the Rainbow Cards catalog with all card information visible, and with editing privileges enabled (an Edit button is added to each Rainbow Card):
 
-<img src="doc/add-card-page.png" alt="Add Rainbow Card page">
-
-Information like the professor's name, an image of them, the class and semester the card is based on, the department the professor is under, their email, and a variety of fun facts and achievements can be entered.
+<img src="doc/admin-page.png" alt="Admin page">
 
 ### Edit Card Page (Admin)
 Administrators can also edit information on any Rainbow Card. The page will appear in a similar format to adding a card:
@@ -125,10 +129,16 @@ Administrators can also edit information on any Rainbow Card. The page will appe
 [Planned feature] A preview of the current card on the side is planned to be implemented, so the editor can refer to its information as they make changes:
 
 <div>
-    <img src="site-mockup/edit-card-admin.png" alt="Edit Rainbow Card page mockup (adminprivileges)">
+    <img src="site-mockup/edit-card-admin.png" alt="Edit Rainbow Card page mockup (admin privileges)">
     <p>(<i>Edit Card page with preview mock-up</i>)</p>
 </div>
 
+### Add Card Page (Admin)
+Rainbow Cards can be added at the administrator-level, which will appear in a format like this:
+
+<img src="doc/add-card-page.png" alt="Add Rainbow Card page">
+
+Information like the professor's name, an image of them, the class and semester the card is based on, the department the professor is under, their email, and a variety of fun facts and achievements can be entered.
 
 ### Edit Card Page (Professor)
 [Planned feature] Professors will be able to make an account with professor-level privileges, allowing them to edit cards associated with themselves only. The form is the same as the admin version:
@@ -139,9 +149,11 @@ Administrators can also edit information on any Rainbow Card. The page will appe
 </div>
 
 ### DevTest Page (Admin)
-The DevTest page is an environment for developers to prototype of site features and functionality before broader implementation.
+The DevTest page is an environment for developers to prototype of site features and functionality before broader implementation:
 
 <img src="doc/devtest-page.png" alt="DevTest page">
+
+The page currently has a prototype for sending cards to a user, which will serve as the basis for the card distribution and trade features of the Rainbow Cards app.
 
 ## Developer Guide
 - First, [install Meteor](https://www.meteor.com/install), and [GitHub Desktop](https://desktop.github.com/).
