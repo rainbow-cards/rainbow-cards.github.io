@@ -51,6 +51,14 @@ Below are some of the comments we have received from members of the UH Manoa com
 >
 > "I think this app is an interesting concept. So far, it's easy to navigate and it's very colorful. It's a fun way to learn about your professors and find out who else is part of the UH Manoa staff."
 
+> Tayler
+> 
+> "I would have liked to see other courses each professors teach on their card. Overall, I would use this as a student and I appreciated the organization."
+
+> Michael Lee
+>
+> "I think that the website is quite good, although some parts of the website need some work. However, I enjoy the concept of the website and wish that there were more cards to trade. I would also like to see an easier trading system that would allow trading via click rather than typing out emails."
+
 
 [//]: # (## Project Features)
 
@@ -112,20 +120,16 @@ Upon signing in with an account, the user can navigate to their My Cards page:
  displaying which cards the user wants to trade away or collect, as well as displaying user's interests.
  
 ### Profile Search Page
-[Planned feature] Users will be able to search for other profiles, such as by account name/email (as seen below):
-<div>
-    <img src="site-mockup/profile-search-page.png" alt="Profile search page mockup">
-    <p>(<i>Edit Card page with preview mock-up</i>)</p>
-</div>
+Users will be able to search for other profiles, such as by account name/email (as seen below):
+
+<img src="doc/profile-search-page.png" alt="User profile search page">
 
 Other methods may be introduced such as searching by card, or a site suggestion feature that spotlights user profiles at random. This can help users find Rainbow Cards they want to trade for, and can match a professor's cards to the user's interests to help them learn more about the UH faculty.
 
 ### Trade Requests Page
-[Planned feature] Users can also navigate to a page where they can view trade requests they have received:
-<div>
-    <img src="site-mockup/trade-request-page.png" alt="Trade requests received page mockup"> 
-    <p>(<i>Trade Requests mock-up</i>)</p>
-</div>
+Users can also navigate to a page where they can view trade requests they have received:
+
+<img src="doc/trade-card-page.png" alt="Trade Card page">
 
 From here, users can accept or decline the offer, or navigate to the requesting user's profile.
 
@@ -146,13 +150,6 @@ Administrators can also edit information on any Rainbow Card. The page will appe
 
 <img src="doc/edit-card-page.png" alt="Edit Rainbow Card page (admin privileges)">
 
-[Planned feature] A preview of the current card on the side is planned to be implemented, so the editor can refer to its information as they make changes:
-
-<div>
-    <img src="site-mockup/edit-card-admin.png" alt="Edit Rainbow Card page mockup (admin privileges)">
-    <p>(<i>Edit Card page with preview mock-up</i>)</p>
-</div>
-
 ### Add Card Page (Admin)
 Rainbow Cards can be added at the administrator-level, which will appear in a format like this:
 
@@ -161,19 +158,9 @@ Rainbow Cards can be added at the administrator-level, which will appear in a fo
 Information like the professor's name, an image of them, the class and semester the card is based on, the department the professor is under, their email, and a variety of fun facts and achievements can be entered.
 
 ### Edit Card Page (Professor)
-[Planned feature] Professors will be able to make an account with professor-level privileges, allowing them to edit cards associated with themselves only. The form is the same as the admin version:
+Professors will be able to make an account with professor-level privileges, allowing them to edit cards associated with themselves only. The form is the same as the admin version:
 
-<div>
-    <img src="site-mockup/edit-card-professor.png" alt="Edit Rainbow Card page mockup (professor privileges)">
-    <p>(<i>Professor Edit Card page mock-up</i>)</p>
-</div>
-
-### DevTest Page (Admin)
-The DevTest page is an environment for developers to prototype of site features and functionality before broader implementation:
-
-<img src="doc/devtest-page.png" alt="DevTest page">
-
-The page currently has a prototype for sending cards to a user, which will serve as the basis for the card distribution and trade features of the Rainbow Cards app.
+<img src="doc/edit-card-professor-page.png" alt="Edit Card (Professor) page">
 
 ## Developer Guide
 - First, [install Meteor](https://www.meteor.com/install), and [GitHub Desktop](https://desktop.github.com/).
