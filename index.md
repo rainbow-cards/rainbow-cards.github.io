@@ -59,6 +59,10 @@ Below are some of the comments we have received from members of the UH Manoa com
 >
 > "I think that the website is quite good, although some parts of the website need some work. However, I enjoy the concept of the website and wish that there were more cards to trade. I would also like to see an easier trading system that would allow trading via click rather than typing out emails."
 
+> Alex
+> 
+> "I think that the automated display of the professors' cards is charming. The menu at the top is easy to navigate and has a lot of features to explore. Overall, it seems to be a pretty novel idea that could be fun to play around with."
+
 
 [//]: # (## Project Features)
 
