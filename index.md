@@ -65,11 +65,11 @@ Below are some of the comments we have received from members of the UH Manoa com
 
 > Nicole
 >
-> This is a very funny site where you can get to know the professors more and trade cards with others. The only issue I have is the layout. The green text on the homepage on the blurred image makes the text difficult to read. On the guide page depending on the size of the window, it can overlap with the logo. Otherwise, the website is very simple to use and fun to look through.
+> "This is a very funny site where you can get to know the professors more and trade cards with others. The only issue I have is the layout. The green text on the homepage on the blurred image makes the text difficult to read. On the guide page depending on the size of the window, it can overlap with the logo. Otherwise, the website is very simple to use and fun to look through."
 
 > Kaye
 > 
-> I think this is a fun and silly way to get to know different professors, especially if you need to take one of their courses. One improvement that could be made is on the text on the portfolio page. Currently, it looks very busy, making it difficult to distinguish the class, email, and bios from each other. Besides that, I'm very excited to see what might happen.
+> "I think this is a fun and silly way to get to know different professors, especially if you need to take one of their courses. One improvement that could be made is on the text on the portfolio page. Currently, it looks very busy, making it difficult to distinguish the class, email, and bios from each other. Besides that, I'm very excited to see what might happen."
 
 
 [//]: # (## Project Features)
@@ -104,27 +104,22 @@ A tour through our current build of the **Manoa Rainbow Cards** website (updated
 ### Landing Page
 The default page for **Manoa Rainbow Cards**, which informs the user about the site and how users can participate.
 
-<img src="doc/landing-page.png" alt="Landing page">
+<img src="doc/landingpage.png" alt="Landing page">
 
 ### Login & Register Pages
 After clicking on the login button, a login page is displayed: 
-<img src="doc/log-in-page.png" alt="Login page">
+<img src="doc/login.png" alt="Login page">
 
 If the user does not have an account or wishes to create one, they will be able to navigate to a sign up page to register for an account: 
-<img src="doc/register-page.png" alt="Register account page">
+<img src="doc/register.png" alt="Register account page">
 
 ### Sign Out Page
 Upon logging out, the user will be redirected to a page confirming that they have signed out:
-<img src="doc/sign-out-page.png" alt="Signed out page">
-
-### Not Authorized Page
-This page displays if the user tries to access a page they are not authorized to view, such as a non-admin user trying to access the Admin page:
-
-<img src="doc/not-auth-page.png" alt="Not Authorized page">
+<img src="doc/signout.png" alt="Signed out page">
 
 ### My Cards Page
 Upon signing in with an account, the user can navigate to their My Cards page:
-<img src="doc/list-user-cards-page.png" alt="User profile page">
+<img src="doc/mycards.png" alt="User profile page">
 
  This page will display all of the user's Rainbow Cards, which is planned to be customizable according to the user's preferences. If a user has more than one of a Rainbow Card, it will be conveyed through an element like a counter. The profile may 
  also include features 
@@ -134,20 +129,20 @@ Upon signing in with an account, the user can navigate to their My Cards page:
 ### Profile Search Page
 Users will be able to search for other profiles, such as by account name/email (as seen below):
 
-<img src="doc/profile-search-page.png" alt="User profile search page">
+<img src="doc/profilesearch.png" alt="User profile search page">
 
 Other methods may be introduced such as searching by card, or a site suggestion feature that spotlights user profiles at random. This can help users find Rainbow Cards they want to trade for, and can match a professor's cards to the user's interests to help them learn more about the UH faculty.
 
 ### Trade Requests Page
 Users can also navigate to a page where they can view trade requests they have received:
 
-<img src="doc/trade-card-page.png" alt="Trade Card page">
+<img src="doc/traderequest.png" alt="Trade Card page">
 
 From here, users can accept or decline the offer, or navigate to the requesting user's profile.
 
 ### Card Catalog Page
 Users can also view a catalog page of all Rainbow Cards in the database:
-<img src="doc/catalog-page.png" alt="Card catalog page">
+<img src="doc/cardcatalog.png" alt="Card catalog page">
 
 This page allows users to browse through the different professors' cards, letting them find who is in the app, and figure out who they want to know more about. Card information is intended to be hidden if the owner does not own the Rainbow Card 
 themselves.
@@ -155,24 +150,29 @@ themselves.
 ### Card Catalog Page (Admin)
 Admin accounts can navigate to a page titled "Admin", which displays the Rainbow Cards catalog with all card information visible, and with editing privileges enabled (an Edit button is added to each Rainbow Card):
 
-<img src="doc/admin-page.png" alt="Admin page">
+<img src="doc/cardcatalogadmin.png" alt="Admin page">
 
 ### Edit Card Page (Admin)
 Administrators can also edit information on any Rainbow Card. The page will appear in a similar format to adding a card:
 
-<img src="doc/edit-card-page.png" alt="Edit Rainbow Card page (admin privileges)">
+<img src="doc/editcard.png" alt="Edit Rainbow Card page (admin privileges)">
 
 ### Add Card Page (Admin)
 Rainbow Cards can be added at the administrator-level, which will appear in a format like this:
 
-<img src="doc/add-card-page.png" alt="Add Rainbow Card page">
+<img src="doc/addcard.png" alt="Add Rainbow Card page">
 
 Information like the professor's name, an image of them, the class and semester the card is based on, the department the professor is under, their email, and a variety of fun facts and achievements can be entered.
 
-### Edit Card Page (Professor)
-Professors will be able to make an account with professor-level privileges, allowing them to edit cards associated with themselves only. The form is the same as the admin version:
+### Wishlist Page
+This allows users to compile cards they wish to collect. This allows users to see other users' wishlists and this creates an incentive to trade with other users. You are also able to remove from wishlist.
 
-<img src="doc/edit-card-professor-page.png" alt="Edit Card (Professor) page">
+<img src="doc/wishlist.png" alt="Edit Card (Professor) page">
+
+### Guide Page
+This page gives users instructions on how to navigate through the website including the exploration of the catalog of existing professor cards, filters by department, and wishlist.
+
+<img src="doc/guide.png" alt="Edit Card (Professor) page">
 
 ## Developer Guide
 - First, [install Meteor](https://www.meteor.com/install), and [GitHub Desktop](https://desktop.github.com/).
