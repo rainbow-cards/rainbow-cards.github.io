@@ -6,7 +6,7 @@ title: Manoa Rainbow Cards
 ## Table of Contents
 * [Deployment](#deployment)
 * [Overview](#overview)
-* [Project Features](#project-features)
+* [Community Feedback](#community-feedback)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Development Timeline](#development-timeline)
@@ -43,20 +43,40 @@ The **Manoa Rainbow Cards** project implements the following technologies and re
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [DigitalOcean](https://www.digitalocean.com/)
 
-## Project Features
+## Community Feedback
 
-Beyond basic site functionality as explored in prior software development stack exercises (refer to our course site [here](https://courses.ics.hawaii.edu/ics314s24/schedule/)), **Manoa Rainbow Cards** is planned to support features such as:
-* [COMMUNITY] **Trading feature**, which allows users to send trade requests and exchange cards they own
-* [COMMUNITY] Profile suggestions that **help link users** through cards they don't own
-* [COMMUNITY] Viewable user profiles, where **users display their cards with a degree of customizability**
-* [COMMUNITY] **Search function** to find other users' profiles
-* [USABILITY] Catalog of all professor cards to see all cards that a user owns and doesn't own
-* [USABILITY] Ability for professors to register on the app so they can **edit and distribute** their own cards
-* [INCENTIVE] Cards with **secret information** that is only revealed once the card is obtained (what is that professor's super cool hobby, anyway?)
-* [INCENTIVE] Ability for users to **earn cards by engaging with the app**, such as daily tasks that accrue points toward earning a card or opening semester-based card packs
-* [INCENTIVE] **Achievements** that users can earn by completing certain tasks or collecting certain combinations of cards
+Below are some of the comments we have received from members of the UH Manoa community who have tested the **Manoa Rainbow Cards** app:
 
-  _*Features are subject to change or removal and not indicative of the final product._
+> Skye Haven
+>
+> "I think this app is an interesting concept. So far, it's easy to navigate and it's very colorful. It's a fun way to learn about your professors and find out who else is part of the UH Manoa staff."
+
+
+[//]: # (## Project Features)
+
+[//]: # ()
+[//]: # (Beyond basic site functionality as explored in prior software development stack exercises &#40;refer to our course site [here]&#40;https://courses.ics.hawaii.edu/ics314s24/schedule/&#41;&#41;, **Manoa Rainbow Cards** is planned to support features such as:)
+
+[//]: # (* [COMMUNITY] **Trading feature**, which allows users to send trade requests and exchange cards they own)
+
+[//]: # (* [COMMUNITY] Profile suggestions that **help link users** through cards they don't own)
+
+[//]: # (* [COMMUNITY] Viewable user profiles, where **users display their cards with a degree of customizability**)
+
+[//]: # (* [COMMUNITY] **Search function** to find other users' profiles)
+
+[//]: # (* [USABILITY] Catalog of all professor cards to see all cards that a user owns and doesn't own)
+
+[//]: # (* [USABILITY] Ability for professors to register on the app so they can **edit and distribute** their own cards)
+
+[//]: # (* [INCENTIVE] Cards with **secret information** that is only revealed once the card is obtained &#40;what is that professor's super cool hobby, anyway?&#41;)
+
+[//]: # (* [INCENTIVE] Ability for users to **earn cards by engaging with the app**, such as daily tasks that accrue points toward earning a card or opening semester-based card packs)
+
+[//]: # (* [INCENTIVE] **Achievements** that users can earn by completing certain tasks or collecting certain combinations of cards)
+
+[//]: # ()
+[//]: # (  _*Features are subject to change or removal and not indicative of the final product._)
 
 ## User Guide
 A tour through our current build of the **Manoa Rainbow Cards** website (updated 4/23).
@@ -186,7 +206,7 @@ $ meteor npm run start
 - Final Project Milestone #2 (4/12-4/23)
   - [M2 Progress Board](https://github.com/orgs/rainbow-cards/projects/2/views/1)
   - Updated app with custom domain at [https://manoa-rainbow-cards.xyz/](https://manoa-rainbow-cards.xyz/)
-- Final Project Milestone #3 (4/24-5/1)
+- Final Project Milestone #3 (4/24-5/8)
   - [M3 Progress Board](https://github.com/orgs/rainbow-cards/projects/3/views/1)
 
 ## The Rainbow Cards Team
