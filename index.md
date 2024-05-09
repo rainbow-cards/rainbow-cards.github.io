@@ -63,6 +63,14 @@ Below are some of the comments we have received from members of the UH Manoa com
 > 
 > "I think that the automated display of the professors' cards is charming. The menu at the top is easy to navigate and has a lot of features to explore. Overall, it seems to be a pretty novel idea that could be fun to play around with."
 
+> Nicole
+>
+> This is a very funny site where you can get to know the professors more and trade cards with others. The only issue I have is the layout. The green text on the homepage on the blurred image makes the text difficult to read. On the guide page depending on the size of the window, it can overlap with the logo. Otherwise, the website is very simple to use and fun to look through.
+
+> Kaye
+> 
+> I think this is a fun and silly way to get to know different professors, especially if you need to take one of their courses. One improvement that could be made is on the text on the portfolio page. Currently, it looks very busy, making it difficult to distinguish the class, email, and bios from each other. Besides that, I'm very excited to see what might happen.
+
 
 [//]: # (## Project Features)
 
